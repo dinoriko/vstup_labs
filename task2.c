@@ -2,6 +2,8 @@
 #include <limits.h>
 #include <stdlib.h>
 
+// test 
+
 int main(){
 	
 	// Zadana matrica NxN , N = 10
