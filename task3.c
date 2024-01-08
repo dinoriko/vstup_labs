@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 // Знайти визначник матриці matrix[3*3] за допомогою розкладання за елементами будь-якого рядка або стовпчика.
+// archetype is sexy drug dealer is sexy but not me they deserve it but not me.
 
 int main(){
 
