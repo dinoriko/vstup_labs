@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// blah blah blah i am not a human even.
+
 int main() {
     int m, n;
     printf("Vvedit kil`kist` ryadkiv M ta stovpciv N ");
